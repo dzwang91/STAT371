@@ -8,13 +8,13 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://ubc-cs.github.io/cpsc340"
-baseurl: "/cpsc340"
+url: "http://dzwang91.github.io/stat371"
+baseurl: "/stat371"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: CPSC 340
+title: STAT 371
 
 # Short description of your site
 description: Machine Learning and Data Mining (2016W2)
