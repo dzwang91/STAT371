@@ -6,5 +6,5 @@ css: /css/wide_table.css
 
 | # | Date | Topic | Slides |Notes | Homework |
 |---|--------|--------|---------------------------|--------------------|------------|
-| 1 | Sep 7 | [Syllabus](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L1.pdf) |       |      |      |
+| 1 | Sep 7 | syllabus and introduction  |[Syllabus](https://github.com/dzwang91/stat371/raw/master/lectures/Syllabus.pdf)      |      |      |
 
