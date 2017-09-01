@@ -26,37 +26,29 @@ For more detailed information, see the course [timetable](https://dzwang91.githu
 
 Discussions are optional and start in the first week of classes.   
 
-**Instructor**: [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)
+| Name    | Role | Office Hour | Office Location| Email|
+|---------|-------|------------|-----------------|------|
+| [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/) | Instructor | Friday 15:30-16:30pm | 1475 MSC | dwang282@wisc.edu |
+| Yuchang Wu    | Discussion TA of 351 |     |     |      | ywu423@wisc.edu |
+| Zhongjie Yu   | Discussion TA of 352 and 353|    |       | zyu98@wisc.edu  |
+| Yuetian Luo   | Support TA of 351, 352 and 353| Wednesday 16-17pm  |  MSC B315    | yluo86@wisc.edu |
 
-**Teaching Assistants**: 
-
-- Yuchang Wu( Discussion TA)
-- Zhongjie Yu( Discussion TA)
-- Yuetian Luo( Support TA)
-
-
-**Office hours**
 
 
 ## Prerequisites
 
- - Basic algorithms and data structures (CPSC 221, or both of CPSC 260 and EECE 320 as well as one of CPSC 210, EECE 201, or EECE 309).
- - Linear algebra (one of MATH 152, 221, or 223).
- - Probability (one of STAT 200, STAT 203, STAT 241, STAT 251, STAT 302, MATH 302, MATH 318, or BIOL 300).
- - Multivariate calculus (one of MATH 200, 217, 226, 253, or 263).
-
-NOTE: since multivariate calculus is a new prerequisite, for the 2016-17 year only we are allowing MATH 200 (equivalent) to be taken as a co-requisite provided that the average of the other MATH/STAT prerequisites is at least 76%. Other courses that are helpful but not required include scientific computing (CPSC 302), algorithms and complexity (CPSC 320), and statistical inference (STAT 305).
-
-Undergraduate and graduate students from any department are welcome to take the class, provided that they satisfy the prerequisites. If you do not satisfy the exact prerequisites but would still like to enroll in the class, there are additional details available [here](https://www.cs.ubc.ca/~schmidtm/Courses/340_prereqs.pdf) and [here](https://www.cs.ubc.ca/students/grad/registration/grads-outside-cs).
-
-
-
+Math 112 (Algebra) and 113 (Trigonometry) or Math 114 (Algebra and Trigonometry).
+ 
 
 ## Textbook
-There is no required textbook for the class. A introductory book that covers many (but not all) the topics we will discuss is the [Artificial Intelligence](http://aima.cs.berkeley.edu/) book of Russell and Norvig (AI:AMA) or the [Artificial Intelligence](http://artint.info/html/ArtInt.html) book of Poole and Mackworth (you may need these for other classes). More advanced books include The [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (ESL) by Hastie et al., Murphy's [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/index.html) (ML:APP) which can be accessed through the library [here](http://site.ebrary.com/lib/ubc/docDetail.action?docID=10597102), and Bishop's [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (PRML). For books with a bigger focus on data mining, see [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php) (IDM) and [Mining of Massive Datasets](http://www.mmds.org/).
-
+There is no required textbook for the class. The recommend text is [An Introduction to Statistical Methods](https://www.amazon.com/Introduction-Statistical-Analysis-Available-Enhanced/dp/0495017582) by R.Lyman Ott and Michael Longnecker. 
 
 ## Programming 
+
+We will use the freely-available statistical software [R](cran.r-project.org) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) page from Professor Karl Broman.) 
+
+
+
 
 ## Grading
 The grading scheme for the course is as follows:
