@@ -29,7 +29,7 @@ Discussions are optional and start in the first week of classes.
 | Name    | Role | Office Hour | Office Location| Email|
 |---------|-------|------------|-----------------|------|
 | [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/) | Instructor | Friday 15:30-16:30pm | 1475 MSC | dwang282@wisc.edu |
-| Yuchang Wu    | Discussion TA of 351 |     |     |      | ywu423@wisc.edu |
+| Yuchang Wu    | Discussion TA of 351 |     |     | ywu423@wisc.edu    | 
 | Zhongjie Yu   | Discussion TA of 352 and 353|    |       | zyu98@wisc.edu  |
 | Yuetian Luo   | Support TA of 351, 352 and 353| Wednesday 16-17pm  |  MSC B315    | yluo86@wisc.edu |
 
@@ -48,16 +48,15 @@ There is no required textbook for the class. The recommend text is [An Introduct
 We will use the freely-available statistical software [R](cran.r-project.org) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) page from Professor Karl Broman.) 
 
 
-
-
 ## Grading
 The grading scheme for the course is as follows:
 
-| Component  | Weight  |
+| Component  | Points  |
 |-------------|-----|
-| Assignments | 25% |
-| Midterm  | 30%
-| Final | 45% |
+| 8 homework sets | 120 |
+| Midterm  1 | 80 |
+| Midterm 2   | 80 |
+| Final | 120 |
 
 ## Homework submission
 
