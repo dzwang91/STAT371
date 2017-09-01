@@ -53,14 +53,24 @@ The grading scheme for the course is as follows:
 
 | Component  | Points  |
 |-------------|-----|
-| 8 homework sets | 120 |
+| Homework  | 120 |
 | Midterm  1 | 80 |
 | Midterm 2   | 80 |
 | Final | 120 |
 
 ## Homework submission
 
-All homework submission will take place through [github.ubc.ca](https://github.ubc.ca/). Within UBC GitHub there is an internal course homepage at <https://github.ubc.ca/cpsc340/home>. From there you can access the homework instructions document, which explains how to submit your homework, how to work with a partner, what happens if your homework is late, and more. Please read that document carefully.
+There will be about 8 homework assignments and each homework has 15 points. In order to ensure that homework assignments are graded accurately and quickly, and returned to students promptly, the following homework policies will be strictly enforced:
+ 
+- Turn in homeworks by 4pm of the Friday they are due, into your Support TA's mailbox in the lobby of the Medical Sciences Center. 
+- There will be no credit for late homeworks.
+- Write your name and discussion section number clearly on the front page. Unidentifiable assignments can earn at most half credit, and scores can't be recorded until claimed by their owners.
+- Your assignment together with real metal staples. Unstapled assignments (that is, those not held together with metal staples from a stapler) can earn at most half credit. Lost or untraceable pages will not be graded.
+- For questions where R is used, report your results in the main body of the homework, and make sure to attach an appendix with all of your R code at the end of the assignment. Use clear, appropriate labels to indicate which section of code goes with which question.
+- Homework grading will be based on correctness. To obtain full credit make sure to (a) show all your work and (b) justify all answers completely.
+- The grader may deduct points for illegible writing.
+- Graded homeworks will be returned to students during discussion section. If you cannot pick up your homework during discussion, visit your TA's office hour to retrieve it. 
+
 
 ## Midterm
 
