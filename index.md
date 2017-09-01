@@ -6,6 +6,16 @@ subtitle: Introductory Applied Statistics for the Life Sciences
 
 **NOTE**: This is the web page for the Fall 2017 offering of STAT 371, Lecture 5.
 
+## Important dates
+
+- Thursday Sep 7: first lecture
+- Thursday Oct 12, 4-5:15pm: Midterm 1 (Van Vleck B130)
+- Thursday Nov 16, 4-5:15pm: Midterm 2 (Van Vleck B130)
+- Thursday Nov 23: Thanksgiving (no class)
+- Tuesday Dec 12: last lecture
+- Other important dates (e.g. drop deadline): https://registrar.wisc.edu/fall_deadlines_at_a_glance.htm
+
+
 ## Topics covered
 
 This course will provide students in the life sciences with an introduction to modern statistical analysis. Topics include descriptive statistics, probability and random variables, distributions, estimation, one-sample testing and confidence intervals, two-sample inference and analysis of variance. It also introduces and employs the freely-available statistical software [R](https://cran.r-project.org) to explore and analyze data.
