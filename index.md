@@ -4,7 +4,7 @@ title: STAT 371
 subtitle: Introductory Applied Statistics for the Life Sciences
 ---
 
-**NOTE**: This is the web page for the fall 2017 offering of STAT 371, Lecture 5.
+**NOTE**: This is the web page for the Fall 2017 offering of STAT 371, Lecture 5.
 
 ## Topics covered
 
