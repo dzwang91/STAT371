@@ -25,7 +25,7 @@ description: Introductory applied statistics for the life sciences
 navbar-links:
   Course info: "index"
   Timetable: "timetable"
-  #Office hours: "calendar"
+  Resource: "resource"
   Links:
    - LearnUW: "https://learnuw.wisc.edu/"
    - Piazza: "http://piazza.com/wisc/fall2017/stat3715fa17/home"
