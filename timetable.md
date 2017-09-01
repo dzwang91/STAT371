@@ -35,28 +35,4 @@ css: /css/wide_table.css
 | 23 | Mar 10 | [Multi-Class Classification](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L23.pdf) | ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
 | 24 | Mar 13 | [Principal Component(s) Analysis](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L24.pdf) | [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), ESL 14.5, IDM B.1, ML:APP 12.2 | Tutorial: maximum likelihood
 | 25 | Mar 15 | [More PCA](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L25.pdf) | [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) | [Assignment 5](https://github.com/UBC-CS/cpsc340/raw/master/assignments/a5.zip) released
-| 26 | Mar 17 | [Sparse Matrix Factorization](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L26.pdf) | [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), ESL 14.6, ML: APP 13.8 | hw4 due Sunday night
-| 27 | Mar 20 | [Recommender Systems](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L27.pdf) | [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system), [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) | Tutorial: Dimensionality reduction
-| 28 | Mar 22 | [Nonlinear Dimensionality Reduction](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L28.pdf) | [Nonlinear Dimensionality Reduction](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction), [t-SNE video](https://www.youtube.com/watch?v=RJVL80Gg3lA&list=UUtXKDgv1AVoG88PLl8nGXmw), [t-SNE caveats](http://distill.pub/2016/misread-tsne/), ESL 14.8-9, IDM B.2 |
-| 29 | Mar 24 | [Neural Networks](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L29.pdf) | [in-class demo](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L29demo.ipynb), [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18), [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  |
-| 30 | Mar 27 | [Deep Learning](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L30.pdf) | [in-class demo](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L30demo.ipynb), [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L30bonus.pdf) ML:APP 28.3, ESL 11.5 | Tutorial: time will be used as extra office hours
-| 31 | Mar 29 | [Convolutional Neural Networks](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L31.pdf) | [bonus slides (more convolutions)](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L31bonus.pdf), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 | [Assignment 6](https://github.com/UBC-CS/cpsc340/raw/master/assignments/a6.zip) released
-| 32 | Mar 31 | [More CNNs](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L32.pdf) | [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) | Assignment 5 due (11:59pm)
-| 33 | Apr 3  | [Deep learning software](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L33.ipynb)  | If you want to follow along, sign up for an [AWS account](https://aws.amazon.com/) before class. You can try for an [Amazon Educate student account](https://aws.amazon.com/education/awseducate/apply/) but we've still working out some issues with this. | Tutorial: deep learning / hw6
-| 34 | Apr 5  | [Conclusion](https://github.com/UBC-CS/cpsc340/raw/master/lectures/Lconclusion.pdf)  | We'll do the course/TA evaluations during this lecture as well. | Assignment 6 due (11:59pm on Friday April 7)
 
-Note: we ended up diverging by two lectures from last term's offering of CPSC 340. One is because
-we spent a class going through the midterm solutions, and the other is because I've added a new lecture (33) on deep learning software.
-The two topics we didn't cover are Ranking and Semi-Supervised Learning.
-If you want to read up on these topics,
-see the [last offering's timetable](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/) and scroll down
-to those two lectures for slides and readings.
-
-<!--
-
-| 33 | Apr 3 | Ranking |  [PageRank Slides](http://www.stat.cmu.edu/~ryantibs/datamining/lectures/03-pr.pdf), [PageRank math/code](https://uu.diva-portal.org/smash/get/diva2:536076/FULLTEXT01.pdf), ESL 14.10, ML:APP 9.7, AI: AMA 22.3
-| 34 | Apr 5 | Semi-Supervised Learning | [Semi-Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning) [Label Propagation at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html)
-| 35 | Apr
-[Course Review/Preview](L35.pdf) Assignment 6 due
-
--->
