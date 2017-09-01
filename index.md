@@ -62,7 +62,7 @@ The grading scheme for the course is as follows:
 
 ## Homework
 
-There will be about 8 homework assignments and each homework has 15 points. Check homework submission policies from the [syllabus](    
+There will be about 8 homework assignments and each homework has 15 points. Check homework submission policies from the [syllabus](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Syllabus.pdf). 
 
 ## Exams
 
