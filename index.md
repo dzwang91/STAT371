@@ -13,7 +13,8 @@ subtitle: Introductory Applied Statistics for the Life Sciences
 - Thursday Nov 16, 4-5:15pm: Midterm 2 (Van Vleck B130)
 - Thursday Nov 23: Thanksgiving (no class)
 - Tuesday Dec 12: last lecture
-- Other important dates (e.g. drop deadline): https://registrar.wisc.edu/fall_deadlines_at_a_glance.htm
+- Saturday Dec 16, 7:45-9:45am: Final (Location TBA)
+- Other important dates (e.g. [drop deadline](https://registrar.wisc.edu/fall_deadlines_at_a_glance.htm) )
 
 
 ## Topics covered
