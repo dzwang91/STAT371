@@ -17,7 +17,7 @@ baseurl: "/stat371"
 title: STAT 371
 
 # Short description of your site
-description: Machine Learning and Data Mining (2016W2)
+description: Introductory applied statistics for the life sciences
 
 # --- Navigation bar options --- #
 
@@ -27,9 +27,10 @@ navbar-links:
   Timetable: "timetable"
   Office hours: "calendar"
   Links:
-   - Piazza: "https://piazza.com/ubc.ca/winterterm22016/cpsc340/home"
-   - UBC Github: "https://github.ubc.ca/cpsc340" 
-   - Stop/Go: "http://skaha.cs.ubc.ca:11616/cpsc340/"
+   - LearnUW: "https://learnuw.wisc.edu/"
+   - Piazza: "piazza.com/wisc/fall2017/stat3715fa17/home"
+   #- UBC Github: "https://github.ubc.ca/cpsc340" 
+   #- Stop/Go: "http://skaha.cs.ubc.ca:11616/cpsc340/"
    
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -40,10 +41,10 @@ avatar: "/img/cpsc340-logo-pad.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mike Gelbart
-  email: "mgelbart@cs.ubc.ca"
-  github: mgelbart
-  twitter: MikeGelbart
+  name: Duzhe Wang
+  email: "dwang282@wisc.edu"
+  github: dzwang91
+  #twitter: MikeGelbart
 
 # Select which links to show in the footer
 footer-links-active:
