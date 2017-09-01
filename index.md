@@ -77,9 +77,7 @@ There will be about 8 homework assignments and each homework has 15 points. Chec
 
 ## Exams
 
-The midterm 1 exam will take place on **10/12/2017 in class**. The midterm 2 exam will take place on **11/16/2017 in class**. The final will take place on **12/16/2017, 7:45-9:45am**, location is TBA. 
-
-**Missed exam**. There is no makeup exam. If you miss the exam, you must provide a justified and documented reason to the instructor. 
+There is no makeup exam. If you miss the exam, you must provide a justified and documented reason to the instructor. 
 
 
 ## Q&A
