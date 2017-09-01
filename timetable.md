@@ -13,6 +13,15 @@ css: /css/wide_table.css
 
 
 ------------------------------------------
+## Distribution tables
+- [Normal table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/Normal Table.pdf   )
+- [T table](
+- [F table]
+- [Chi Square table]
+- [Tukey Q table]
+
+
+
 ## Homework assignments
 - Homework 1
 - Homework 2
