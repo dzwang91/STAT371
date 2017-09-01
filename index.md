@@ -8,17 +8,7 @@ subtitle: Introductory Applied Statistics for the Life Sciences
 
 ## Topics covered
 
-We introduce basic principles and techniques in the fields of data mining and machine learning. These are some of the key tools behind the emerging field of data science and the popularity of the "big data" buzzword. These techniques are now running behind the scenes to discover patterns and make predictions in various applications in our daily lives. We'll focus on many of the core data mining and machine learning technologies, with motivating applications from a variety of disciplines.
-
-We will roughly cover the following topics:
-
-- Data exploration, cleaning, and preprocessing.
-- Supervised learning with frequencies and distances.
-- Data clustering, outlier detection, and association rules.
-- Linear prediction, regularization, and kernels.
-- Latent-factor models and collaborative filtering.
-- Neural networks and deep learning.
-- Density estimation and Markov models.
+This course will provide students in the life sciences with an introduction to modern statistical analysis. Topics include: descriptive statistics, probability and random variables, distributions, estimation, one-sample testing and confidence intervals, two-sample inference and analysis of variance. It also introduces and employs the freely-available statistical software [https://cran.r-project.org R] to explore and analyze data.
 
 For more detailed information, see the course [timetable](https://dzwang91.github.io/stat371/timetable/).
 
