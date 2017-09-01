@@ -47,7 +47,7 @@ There is no required textbook for the class. The recommend text is *[An Introduc
 
 ## Programming 
 
-We will use the freely-available statistical software [R](cran.r-project.org) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) page from Professor Karl Broman.) 
+We will use the freely-available statistical software [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) page from Professor Karl Broman.) 
 
 
 ## Grading
@@ -56,13 +56,13 @@ The grading scheme for the course is as follows:
 | Component  | Points  |
 |-------------|-----|
 | Homework  | 120 |
-| Midterm  1 | 80 |
+| Midterm 1 | 80 |
 | Midterm 2   | 80 |
 | Final | 120 |
 
 ## Homework
 
-There will be about 8 homework assignments and each homework has 15 points. 
+There will be about 8 homework assignments and each homework has 15 points. Check homework submission policies from the [syllabus](    
 
 ## Exams
 
