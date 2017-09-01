@@ -58,45 +58,17 @@ The grading scheme for the course is as follows:
 | Midterm 2   | 80 |
 | Final | 120 |
 
-## Homework submission
+## Homework
 
-There will be about 8 homework assignments and each homework has 15 points. In order to ensure that homework assignments are graded accurately and quickly, and returned to students promptly, the following homework policies will be strictly enforced:
- 
-- Turn in homeworks by 4pm of the Friday they are due, into your Support TA's mailbox in the lobby of the Medical Sciences Center. 
-- There will be no credit for late homeworks.
-- Write your name and discussion section number clearly on the front page. Unidentifiable assignments can earn at most half credit, and scores can't be recorded until claimed by their owners.
-- Your assignment together with real metal staples. Unstapled assignments (that is, those not held together with metal staples from a stapler) can earn at most half credit. Lost or untraceable pages will not be graded.
-- For questions where R is used, report your results in the main body of the homework, and make sure to attach an appendix with all of your R code at the end of the assignment. Use clear, appropriate labels to indicate which section of code goes with which question.
-- Homework grading will be based on correctness. To obtain full credit make sure to (a) show all your work and (b) justify all answers completely.
-- The grader may deduct points for illegible writing.
-- Graded homeworks will be returned to students during discussion section. If you cannot pick up your homework during discussion, visit your TA's office hour to retrieve it. 
+There will be about 8 homework assignments and each homework has 15 points. 
 
+## Exams
 
-## Midterm
+The midterm 1 exam will take place on **10/12/2017 in class**. The midterm 2 exam will take place on **11/16/2017 in class**. The final will take place on **12/16/2017, 7:45-9:45am**, location is TBA. 
 
-The midterm exam will take place on **March 1, 2017 in class**. The exam is closed book except for one double-sided "cheat sheet" on letter-size paper.
-
-**Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, you must provide a justified and documented reason to the instructor. If you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam. 
-
-
+**Missed exam**. There is no makeup exam. If you miss the exam, you must provide a justified and documented reason to the instructor. 
 
 
 ## Q&A
-We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions. Please consider the following guidelines when asking a question:
-
-- avoid including answers or partial answers in your question/post.
-- do a quick search to make sure your question hasn't already been answered. 
-  - you can filter by tags like "hw1" or do a keyword search
-- if you have a code problem, include as much relevant information as possible like:
-  - your version of Python and relevant libraries
-  - your operating system
-  - the command you used to execute the program 
-  - the entire error message
-- if you want the course staff to review/help debug your code, please use the following protocol:
-  - ask in github.ubc.ca, instead of Piazza, by opening an issue in your personal homework repository.
-  - make sure to tag `@cpsc340/staff` in your issue's text; otherwise, we will not be notified.
-  - include a link to the file you want us to review, and a brief explanation. If you want to be extra fancy, you can include a link to the specific line by appending a code like `#L123` to the end of the URL (this would link to line 123). 
-- if you post a question and then figure out the answer yourself, please do not delete the question. It's still useful. Ideally, you'd post the answer to your own question for others to benefit.
-- (less important, but nice) when using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
-
+We will use [Piazza](https://piazza.com/wisc/fall2017/stat3715fa17/home) for course-related questions. 
 
