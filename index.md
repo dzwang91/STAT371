@@ -43,7 +43,7 @@ Math 112 (Algebra) and 113 (Trigonometry) or Math 114 (Algebra and Trigonometry)
  
 
 ## Textbook
-There is no required textbook for the class. The recommend text is [An Introduction to Statistical Methods](https://www.amazon.com/Introduction-Statistical-Analysis-Available-Enhanced/dp/0495017582) by R.Lyman Ott and Michael Longnecker. 
+There is no required textbook for the class. The recommend text is *[An Introduction to Statistical Methods](https://www.amazon.com/Introduction-Statistical-Analysis-Available-Enhanced/dp/0495017582)* by R.Lyman Ott and Michael Longnecker. 
 
 ## Programming 
 
