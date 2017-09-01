@@ -8,38 +8,35 @@ subtitle: Introductory Applied Statistics for the Life Sciences
 
 ## Topics covered
 
-This course will provide students in the life sciences with an introduction to modern statistical analysis. Topics include: descriptive statistics, probability and random variables, distributions, estimation, one-sample testing and confidence intervals, two-sample inference and analysis of variance. It also introduces and employs the freely-available statistical software [https://cran.r-project.org R] to explore and analyze data.
+This course will provide students in the life sciences with an introduction to modern statistical analysis. Topics include: descriptive statistics, probability and random variables, distributions, estimation, one-sample testing and confidence intervals, two-sample inference and analysis of variance. It also introduces and employs the freely-available statistical software [R](https://cran.r-project.org) to explore and analyze data.
 
 For more detailed information, see the course [timetable](https://dzwang91.github.io/stat371/timetable/).
 
 ## Who / what / where / when
 
-**Lectures**: MWF 1-2pm in Hugh Dempster Pavilion (DMP) 110
+**Lectures**: Tuesday and Thursday, 16-17:15pm in Van Vleck B130
 
-**Tutorials**:
+**Discussions**:
 
 | Section | Place | Time |
 |---------|-------|------|
-| T2A     | DMP 101 | M 4-5 pm |
-| T2B     | DMP 101 | M 3-4 pm |
-| T2C     | DMP 201 | T 2-3pm (but cancelled on Feb 14) |
+| 351     | ENGR HALL 3345 | W 12:05-12:55 pm |
+| 352     | EDUC SCI 212 | W 13:20-14:10 pm |
+| 353     | COMP SCI 1325 | R 12:05-12:55pm |
 
-Tutorials are optional and start on the second week of classes (2017-01-09).  
+Discussions are optional and start in the first week of classes.   
 
 **Instructor**: [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)
 
 **Teaching Assistants**: 
 
-- Ricky Chen
-- Ritika Jain
-- Issam Laradji
-- Bita Nejat
-- Wenyi Wang
+- Yuchang Wu( Discussion TA)
+- Zhongjie Yu( Discussion TA)
+- Yuetian Luo( Support TA)
 
 
 **Office hours**
 
-See the [office hours calendar](https://dzwang91.github.io/stat371/calendar/).
 
 ## Prerequisites
 
