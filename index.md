@@ -21,7 +21,7 @@ subtitle: Introductory Applied Statistics for the Life Sciences
 
 This course will provide students in the life sciences with an introduction to modern statistical analysis. Topics include descriptive statistics, probability and random variables, distributions, estimation, one-sample testing and confidence intervals, two-sample inference and analysis of variance. It also introduces and employs the freely-available statistical software [R](https://cran.r-project.org) to explore and analyze data.
 
-For more detailed information, see the course [Syllabus]().
+For more detailed information, see the course [Syllabus](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Syllabus.pdf).
 
 ## Who / what / where / when
 
