@@ -1,10 +1,10 @@
 ---
 layout: page
 title: STAT 371
-subtitle: Introductory Applied Statistics for the Life Sciences(Fall 2017)
+subtitle: Introductory Applied Statistics for the Life Sciences
 ---
 
-**NOTE**: This is the web page for the Spring 2017 offering (Jan-Apr 2017) of CPSC 340. For the summer 2017 offering, the page is <http://github.ubc.ca/cpsc340-2017S/home>, which requires logging into github.ubc.ca to view. Currently enrolled students should be able to log in; please let the instructor know if this is not the case by the first lecture.
+**NOTE**: This is the web page for the fall 2017 offering of STAT 371, Lecture 5.
 
 ## Topics covered
 
