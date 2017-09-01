@@ -26,8 +26,10 @@ For more detailed information, see the course [timetable](https://dzwang91.githu
 
 Discussions are optional and start in the first week of classes.   
 
+**Teaching staff**:
+
 | Name    | Role | Office Hour | Office Location| Email|
-|---------|-------|------------|-----------------|------|
+|-----------------|--------------------|--------------------|-----------------|-----------------|
 | [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/) | Instructor | Friday 15:30-16:30pm | 1475 MSC | dwang282@wisc.edu |
 | Yuchang Wu    | Discussion TA of 351 |     |     | ywu423@wisc.edu    | 
 | Zhongjie Yu   | Discussion TA of 352 and 353|    |       | zyu98@wisc.edu  |
