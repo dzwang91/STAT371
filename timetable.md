@@ -23,7 +23,7 @@ css: /css/wide_table.css
 
 
 ## Homework assignments
-- Homework 1
+- [Homework 1](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1.pdf)
 - Homework 2
 - Homework 3
 - Homework 4
