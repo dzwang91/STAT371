@@ -44,7 +44,7 @@ Discussions are optional and start in the first week of classes.
 | [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)  | Friday 15:30-16:30pm | MSC 1475 | dwang282@wisc.edu |
 | Yuchang Wu   | Thursday 11:30am-12:30pm | MSC 1210    | ywu423@wisc.edu    | 
 | Zhongjie Yu  |  Tuesday 2:30-3:30pm    |  MSC B248     | zyu98@wisc.edu  |
-| Yuetian Luo  | Wednesday 16-17pm  |  MSC B315    | yluo86@wisc.edu |
+| Yuetian Luo  | Wednesday 2:30-2:30pm  |  MSC B315    | yluo86@wisc.edu |
 
 
 
