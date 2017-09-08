@@ -42,7 +42,7 @@ Discussions are optional and start in the first week of classes.
 | Name          | Office Hour        | Office Location | Email           |
 |---------------|--------------------|-----------------|-----------------|
 | [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)  | Friday 15:30-16:30pm | MSC 1475 | dwang282@wisc.edu |
-| Yuchang Wu   | Thursday 11:30am-12:30pm | MSC 1210    | ywu423@wisc.edu    | 
+| Yuchang Wu   | Thursday 11:30am-12:30pm | MSC 1217    | ywu423@wisc.edu    | 
 | Zhongjie Yu  |  Friday 2-3pm    |  MSC B248     | zyu98@wisc.edu  |
 | Yuetian Luo  | Wednesday 2:30-2:30pm  |  MSC B315    | yluo86@wisc.edu |
 
