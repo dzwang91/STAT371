@@ -1,0 +1,54 @@
+#—————————————————————————————————————————
+# Chapter 2: Descriptive Statistics R Code
+#—————————————————————————————————————————
+
+#Incandescent Lamps Data
+
+#enter data
+lifetimes=c(612, 623, 666, 744, 883, 898, 964, 970, 983, 1003, 1016, 1022, 1029, 1058, 1085, 1088, 1122, 1135, 1197, 1201)
+
+#frequency histogram
+#'main' adds a title
+#'col' changes the color of the bars
+#'xlab' adds a label to the x-axis
+hist(lifetimes, main = "Frequency Histogram of Lamp Lifetimes (hr)", col = 2, xlab = "Lifetime (hr)")
+
+#to print directly to pdf
+#change the path to reflect the location you want to save to#
+pdf('path/you/want/to/save')
+hist(lifetimes, main = "Frequency Histogram of Lamp Lifetimes (hr)", col = 2, xlab = "Lifetime (hr)")
+dev.off()
+
+
+#relative frequency histogram#
+#you have to trick R to get these using the first two lines of code#
+#'ylab' adds a label to the y-axis#
+h <- hist(lifetimes, plot=F)
+h$counts <- h$counts / sum(h$counts)
+plot(h, freq=TRUE, ylab="Relative Frequency", main = "Relative Frequency Histogram of Lamp Lifetimes (hr)", 
+     col = 2, xlab = "Lifetime (hr)")
+
+
+#give R a suggestion about the number of bins using 'breaks'
+#suggest 50 bins#
+hist(lifetimes, main = "Histogram of Lamp Lifetimes (hr)", col = 2, xlab = "Lifetime (hr)", breaks = 50)
+
+#use default behavior for bins#
+hist(lifetimes, main = "Histogram of Lamp Lifetimes (hr)", col = 2, xlab = "Lifetime (hr)")
+
+#suggest 3 bins#
+hist(lifetimes, main = "Histogram of Lamp Lifetimes (hr)", col = 2, xlab = "Lifetime (hr)", breaks = 3)
+
+
+
+#compute summary stats
+#'summary()' gives max, min, quartiles, and mean; can be used to compute range and IQR
+summary(lifetimes)
+
+#compute standard deviation
+sd(lifetimes)
+
+
+
+
+
