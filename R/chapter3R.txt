@@ -1,0 +1,11 @@
+#————————————————————————
+# Chapter 3: Probability
+#————————————————————————
+
+#create ant weights data#
+antwt <- rnorm(100, 3, 0.25)
+
+
+#create histogram#
+#ylim and xlim change the limits of the axes#
+hist(antwt, ylim = c(0,35), xlim = c(2,4), xlab = "Ant Weights (mg)", main = "Ant Weights (mg)", col = 2)
