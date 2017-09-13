@@ -32,10 +32,10 @@ For more detailed information, see the course [Syllabus](https://github.com/dzwa
 | Section | Place | Time |
 |---------|-------|------|
 | 351     | ENGR HALL 3345 | W 12:05-12:55 pm |
-| 352     | EDUC SCI 212 | W 13:20-14:10 pm |
+| 352     | COMP SCI 1325 | W 13:20-14:10 pm |
 | 353     | COMP SCI 1325 | R 12:05-12:55pm |
 
-Discussions are optional and start in the first week of classes.   
+Discussions are optional and start in the first week of classes. Discussion locations might change through the semester, see your TA's announcement.  
 
 **Teaching staff**:
 
