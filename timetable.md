@@ -14,8 +14,8 @@ css: /css/wide_table.css
 ------------------------------------------
 
 ## Homework assignments
-- [Homework 1](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1.pdf)
-- [Homework 2](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2.pdf)
+- [Homework 1: descriptive statistics](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1.pdf)
+- [Homework 2: probability and binomial RV](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2.pdf)
 - Homework 3
 - Homework 4
 - Homework 5
