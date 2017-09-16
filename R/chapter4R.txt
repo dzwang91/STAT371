@@ -1,0 +1,47 @@
+#———————————————————————————————————————————————————
+#Chapter 4: Random Variables and Distribution
+#———————————————————————————————————————————————————
+
+##Binomial##
+
+#compute exact probabilities using dbinom()#
+#for B ~ Bin(n, pi), the following computes P(B = b)#
+
+dbinom(b, n, pi)
+
+
+#use pbinom(b, n, pi) to find probs less than or equal to b#
+#so, P(B <= 4) is
+
+pbinom(4, 5, 0.96)
+
+
+##Ant Farm Example##
+
+#generate ant data#
+#rnorm realizes random normals with specified mean and sd#
+
+antwt <- rnorm(2000, 3, 0.25)
+
+
+#pnorm computes probability to left by default#
+#second and third arguments are the mean and sd, respectively#
+
+pnorm(2.8, 3, 0.25)
+pnorm(3, 3, 0.25) - pnorm(2.8, 3, 0.25)
+
+
+#dnorm(  ) gives the density value(height) of the normal curve, not the probability#
+#P(Z = z) is always zero#
+
+
+#use qnorm to find quantiles of the normal#
+#default is mean = 0, sd = 1#
+
+qnorm(0.75)
+
+
+#or find quantiles of non-standard normals directly by specifying mean and sd#
+
+qnorm(0.75, 3, 0.25)
+
