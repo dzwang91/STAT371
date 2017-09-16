@@ -5,7 +5,7 @@ title: Resource
 
 ## Distribution tables
 
-- [Normal table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/Normal Table.pdf   )
+- [Z table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/Ztable.pdf   )
 - [T table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/T-table.pdf)
 - [F table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/F-table.pdf)
 - [Chi Square table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/Chi Square Table.pdf)
