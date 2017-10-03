@@ -13,6 +13,14 @@ css: /css/wide_table.css
 |L5| Sep 21 | Continuous RVs and Distributions |[Chapter 4-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter4-3.pdf) | [Chapter 4 R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/chapter4R.txt )  | [Chapter 4 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter4-notes.pdf)  |  You can play with the Bell curve [here](https://dzwang.shinyapps.io/thebellcurve/) and download [Z table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/Ztable.pdf   )   |      |
 |L6| Sep 26 | Reverse standardization, z critical value and Estimation |[Chapter 5-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-1.pdf)|    |    | You can make more practice about standardization and reverse standardization techniques from [here](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Chapter4-Practice-Problems.pdf)     |      |
 |L7| Sep 28 | Estimation |[Chapter 5-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-2.pdf)|    |    |HW3 is out, due on 10/6, 4pm |      |
+|L8| Oct 3 | Estimation |[Chapter 5-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-3.pdf)|    |    |     |      |
+
+
+
+
+
+
+
 
 
 
