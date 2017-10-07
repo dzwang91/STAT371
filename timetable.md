@@ -15,6 +15,10 @@ css: /css/wide_table.css
 |L7| Sep 28 | Estimation |[Chapter 5-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-2.pdf)|    |    |HW3 is out, due on 10/6, 4pm |      |
 |L8| Oct 3 | Estimation |[Chapter 5-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-3.pdf)|  [QQ plot R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/QQplot.R), [CLT R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/CLT.R) |    |     |      |
 |L9| Oct 5 | Estimation |[Chapter 5-Part 4 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-4.pdf)|   [Confidence Interval R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/CI.R)|    | You can download t table [here](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/T-table.pdf) |      |
+|L10| Oct10 | Midterm 1 Review |    |     |    |  Midterm 1 Practice problems are out.      |      |
+|L11| Oct12 | Midterm 1        |    |     |    |        |      |
+
+
 
 
 
@@ -32,7 +36,7 @@ css: /css/wide_table.css
 - Homework 8
 
 ## Exam practice
-- Midterm 1 practice
+- [Midterm 1 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm1Practice.pdf)
 - Midterm 2 practice
 - Final practice
 
