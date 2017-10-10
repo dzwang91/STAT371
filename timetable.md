@@ -15,11 +15,8 @@ css: /css/wide_table.css
 |L7| Sep 28 | Estimation |[Chapter 5-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-2.pdf)|    |    |HW3 is out, due on 10/6, 4pm |      |
 |L8| Oct 3 | Estimation |[Chapter 5-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-3.pdf)|  [QQ plot R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/QQplot.R), [CLT R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/CLT.R) |    |     |      |
 |L9| Oct 5 | Estimation |[Chapter 5-Part 4 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-4.pdf)|   [Confidence Interval R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/CI.R)|    | You can download t table [here](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/T-table.pdf) |      |
-|L10| Oct10 | Midterm 1 Review |    |     |    |  Midterm 1 Practice problems are out.      |      |
+|L10| Oct10 | Midterm 1 Review | [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm1review.pdf)   |     |    |  Midterm 1 Practice problems are out.      |      |
 |L11| Oct12 | Midterm 1        |    |     |    |        |      |
-
-
-
 
 
 
@@ -28,7 +25,7 @@ css: /css/wide_table.css
 ## Homework assignments
 - [Homework 1: descriptive statistics](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1.pdf) [[HW1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1key.pdf )]
 - [Homework 2: probability and binomial RV](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2.pdf) [[HW2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2key.pdf )]
-- [Homework 3: Normal RV, Z table and estimation](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3.pdf)
+- [Homework 3: Normal RV, Z table and estimation](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3.pdf) [[HW3 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3key.pdf )]
 - Homework 4
 - Homework 5
 - Homework 6
