@@ -17,6 +17,9 @@ css: /css/wide_table.css
 |L9| Oct 5 | Estimation |[Chapter 5-Part 4 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-4.pdf)|   [Confidence Interval R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/CI.R)|    | You can download t table [here](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/T-table.pdf) |      |
 |L10| Oct10 | Midterm 1 Review | [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm1review.pdf)   |     |    |  Midterm 1 Practice problems are out.      |      |
 |L11| Oct12 | Midterm 1        |    |     |    |        |      |
+|L12| Oct 17 | Estimation:determine sample size and estimation for population proportioins |[Chapter 5-Part 5 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-5.pdf)|   |    | HW4 is released. Due on 10/24.      |      |
+|L13| Oct 19 |     |   |    |       |      |
+
 
 
 
@@ -26,7 +29,7 @@ css: /css/wide_table.css
 - [Homework 1: descriptive statistics](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1.pdf) [[HW1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1key.pdf )]
 - [Homework 2: probability and binomial RV](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2.pdf) [[HW2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2key.pdf )]
 - [Homework 3: Normal RV, Z table and estimation](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3.pdf) [[HW3 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3key.pdf )]
-- Homework 4
+- [Homework 4](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4.pdf  )
 - Homework 5
 - Homework 6
 - Homework 7
