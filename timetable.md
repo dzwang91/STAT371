@@ -18,7 +18,7 @@ css: /css/wide_table.css
 |L10| Oct10 | Midterm 1 Review | [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm1review.pdf)   |     |    |  Midterm 1 Practice problems are out.      |      |
 |L11| Oct12 | Midterm 1        |    |     |    |        |      |
 |L12| Oct 17 | Estimation:determine sample size and estimation for population proportioins |[Chapter 5-Part 5 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-5.pdf)|   |    | HW4 is released. Due on 10/24.      |      |
-|L13| Oct 19 |     |   |    |       |      |
+|L13| Oct 19 | Estimation: bootstrap methods | Chapter 5-Part 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-6.pdf) | [Bootstrap R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/Bootstrap.R) |       |      |
 
 
 
