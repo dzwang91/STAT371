@@ -36,7 +36,7 @@ css: /css/wide_table.css
 - Homework 8
 
 ## Exam practice
-- [Midterm 1 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm1Practice.pdf)
+- [Midterm 1 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm1Practice.pdf) [[Midterm 1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Exam1Key.pdf )]
 - Midterm 2 practice
 - Final practice
 
