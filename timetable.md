@@ -20,6 +20,8 @@ css: /css/wide_table.css
 |L12| Oct 17 | Estimation:determine sample size and estimation for population proportioins |[Chapter 5-Part 5 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-5.pdf)|   |    | HW4 is released. Due on 10/24.      |      |
 |L13| Oct 19 | Estimation: bootstrap methods | [Chapter 5-Part 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-6.pdf) | [Bootstrap R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/Bootstrap.R) | [Chapter 5 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter5-notes.pdf)     |      |
 |L14| Oct 24 | Introduction to hypothesis testing |[Chapter 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6.pdf), [Hypothesis testing detailed notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6notes.pdf)|   | [Chapter 6 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter6-notes.pdf)  | HW5 is released. Due on 11/3.      |      |
+|L15| Oct 26 | One sample T test |[Chapter 7-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-1.pdf)|   |   |      |      |
+
 
 
 
@@ -32,7 +34,7 @@ css: /css/wide_table.css
 - [Homework 1: descriptive statistics](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1.pdf) [[HW1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1key.pdf )]
 - [Homework 2: probability and binomial RV](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2.pdf) [[HW2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2key.pdf )]
 - [Homework 3: Normal RV, Z table and estimation](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3.pdf) [[HW3 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3key.pdf )]
-- [Homework 4](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4.pdf  )
+- [Homework 4](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4.pdf  ) [[HW4 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4key.pdf )]
 - [Homework 5](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw5.pdf  )
 - Homework 6
 - Homework 7
