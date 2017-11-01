@@ -21,6 +21,7 @@ css: /css/wide_table.css
 |L13| Oct 19 | Estimation: bootstrap methods | [Chapter 5-Part 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-6.pdf) | [Bootstrap R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/Bootstrap.R) | [Chapter 5 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter5-notes.pdf)     |      |
 |L14| Oct 24 | Introduction to hypothesis testing |[Chapter 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6.pdf), [Hypothesis testing detailed notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6notes.pdf)|   | [Chapter 6 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter6-notes.pdf)  | HW5 is released. Due on 11/3.      |      |
 |L15| Oct 26 | One sample T test |[Chapter 7-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-1.pdf)|   |   |      |      |
+|L16| Oct 31 | Sign test and test for population proportion |[Chapter 7-Part 2 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-2.pdf)|   |   |      |      |
 
 
 
