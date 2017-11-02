@@ -22,6 +22,10 @@ css: /css/wide_table.css
 |L14| Oct 24 | Introduction to hypothesis testing |[Chapter 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6.pdf), [Hypothesis testing detailed notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6notes.pdf)|   | [Chapter 6 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter6-notes.pdf)  | HW5 is released. Due on 11/3.      |      |
 |L15| Oct 26 | One sample T test |[Chapter 7-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-1.pdf)|   |   |      |      |
 |L16| Oct 31 | Sign test and test for population proportion |[Chapter 7-Part 2 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-2.pdf)|   | [Chapter 7 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter7-notes.pdf)  |      |      |
+|L17| Nov 2nd | two sample T test |[Chapter 8-Part 1 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-1.pdf)| [Boxplot and dotplot R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/two-sample-t-test.txt)     |      |      |      |
+
+
+
 
 
 
