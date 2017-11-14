@@ -25,7 +25,7 @@ css: /css/wide_table.css
 |L17| Nov 2 | two sample T test |[Chapter 8-Part 1 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-1.pdf)| [Boxplot and dotplot R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/two-sample-t-test.txt)     |      |      |      |
 |L18 | Nov 7 | Welch T-test |[Chapter 8-Part 2 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-2.pdf)|       |      |  HW6 is out. Due on 11/17.     |      |
 |    | Nov 9 | No lecture   |       |      |      |      |
-|L19 | Nov 14 | Midterm 2 review|       |      |      |      |
+|L19 | Nov 14 | Midterm 2 review|  [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm2review.pdf )     |      |      |      |
 |L20 | Nov 16 | Midterm 2 |       |      |      |      |
 
 
