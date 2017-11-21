@@ -47,6 +47,6 @@ css: /css/wide_table.css
 
 ## Exam practice
 - [Midterm 1 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm1Practice.pdf) [[Midterm 1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Exam1Key.pdf )]
-- [Midterm 2 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm2Practice.pdf )
+- [Midterm 2 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm2Practice.pdf ) [[Midterm 2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Exam2Key.pdf )]
 - Final practice
 
