@@ -27,7 +27,7 @@ css: /css/wide_table.css
 |    | Nov 9 | No lecture   |       |      |      |      |
 |L19 | Nov 14 | Midterm 2 review|  [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm2review.pdf )     |      |      |      |
 |L20 | Nov 16 | Midterm 2 |       |      |      |      |
-|L21 | Nov 21 | Compare two population proportions|  [Chapter 8-Part 3 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-3.pdf )     | [Chapter 8 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter8-notes.pdf)    |      |      |
+|L21 | Nov 21 | Compare two population proportions|  [Chapter 8-Part 3 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-3.pdf )     | [Chapter 8 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter8-notes.pdf)    | HW7 is out, due on 12/1.     |      |
 |   | Nov 23 | No lecture, happy Thanksgiving! |       |      |      |      |
 
 
@@ -41,8 +41,8 @@ css: /css/wide_table.css
 - [Homework 3: Normal RV, Z table and estimation](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3.pdf) [[HW3 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3key.pdf )]
 - [Homework 4](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4.pdf  ) [[HW4 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4key.pdf )]
 - [Homework 5](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw5.pdf  ) [[HW5 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw5key.pdf )]
-- [Homework 6](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw6.pdf  )
-- Homework 7
+- [Homework 6](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw6.pdf  ) [[HW6 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw6key.pdf )]
+- [Homework 7](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw7.pdf  )
 - Homework 8
 
 ## Exam practice
