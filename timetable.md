@@ -27,7 +27,7 @@ css: /css/wide_table.css
 |    | Nov 9 | No lecture   |       |      |      |      |
 |L19 | Nov 14 | Midterm 2 review|  [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm2review.pdf )     |      |      |      |
 |L20 | Nov 16 | Midterm 2 |       |      |      |      |
-
+|L21 | Nov 21 | Compare two population proportions|  [Chapter 8-Part 3 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-3.pdf )     | [Chapter 8 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter8-notes.pdf)    |      |      |
 
 
 
