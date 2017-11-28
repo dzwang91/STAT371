@@ -29,7 +29,7 @@ css: /css/wide_table.css
 |L20 | Nov 16 | Midterm 2 |       |      |      |      |
 |L21 | Nov 21 | Compare two population proportions|  [Chapter 8-Part 3 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-3.pdf )     |     |[Chapter 8 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter8-notes.pdf) | HW7 is out, due on 12/1.  |  |
 |   | Nov 23 | No lecture, happy Thanksgiving! |       |      |      |      |
-
+|L22 | Nov 28 | Two paired samples|  [Chapter 9 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter9.pdf )     |     |    |  |  |
 
 
 
