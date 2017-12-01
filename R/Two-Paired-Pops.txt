@@ -1,0 +1,35 @@
+###########################
+##Two-sample paired tests##
+###########################
+
+##Office Example##
+
+#enter data#
+standard <- c(81, 87, 86, 59, 66, 70, 73, 92)
+diverse  <- c(78, 91, 79, 65, 67, 72, 71, 96)
+
+#reformat#
+all <- c(standard, diverse)
+task <- c(rep(1, 8), rep(2, 8))
+person <- c(1:8, 1:8)
+
+#line graph#
+library(lattice)
+
+xyplot(all ~ task, group = person, type = 'o', col = 1, ylab = "Percentage", xlab = "Task, 1 = Standard, 2 = Diverse")
+
+
+#qq of diffs#
+diffs <- diverse - standard
+qqnorm(diffs, main = "QQ Plot of Differences")
+
+
+
+#Paired T#
+#Output format is slightly different but these do the same thing#
+t.test(diverse, standard, paired = T)
+t.test(diffs)
+
+
+#Sign Test#
+2*pbinom(3, 8, 0.5)
