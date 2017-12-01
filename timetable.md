@@ -34,6 +34,7 @@ css: /css/wide_table.css
 |L24 | Dec 5 | ANOVA|         |     |    |  |  |
 |   | Dec 7 | No Lecture|       |     |    |  |  |
 |L25 | Dec 12 | Final Review|         |     |    |  |  |
+|  | Dec 15(Friday!) | Office hours for final: 3:30-5:30pm, R1475 MSC|         |     |    |  |  |
 |L26 | Dec 16(Saturday!) | Final Exam: 7:45-9:45 am, Bascom 272|         |     |    |  |  |
 
 
