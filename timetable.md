@@ -30,7 +30,7 @@ css: /css/wide_table.css
 |L21 | Nov 21 | Compare two population proportions|  [Chapter 8-Part 3 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-3.pdf )     |     |[Chapter 8 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter8-notes.pdf) | HW7 is out, due on 12/1.  |  |
 |   | Nov 23 | No lecture, happy Thanksgiving! |       |      |      |      |
 |L22 | Nov 28 | Two paired samples|  [Chapter 9 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter9.pdf )     | [Chapter 9 R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/Two-Paired-Pops.txt)    | [Chapter 9 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter9-notes.pdf)  |  |  |
-|L23 | Nov 30 | ANOVA|  [Chapter 10-Part 1 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter10-1.pdf )     |     |    |  |  |
+|L23 | Nov 30 | ANOVA|  [Chapter 10-Part 1 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter10-1.pdf )     |     |    | F table is at the resource page. |  |
 |L24 | Dec 5 | ANOVA|         |     |    |  |  |
 |   | Dec 7 | No Lecture|       |     |    |  |  |
 |L25 | Dec 12 | Final Review|         |     |    |  |  |
