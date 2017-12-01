@@ -31,6 +31,16 @@ css: /css/wide_table.css
 |   | Nov 23 | No lecture, happy Thanksgiving! |       |      |      |      |
 |L22 | Nov 28 | Two paired samples|  [Chapter 9 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter9.pdf )     | [Chapter 9 R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/Two-Paired-Pops.txt)    | [Chapter 9 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter9-notes.pdf)  |  |  |
 |L23 | Nov 30 | ANOVA|  [Chapter 10-Part 1 Lecture notes](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter10-1.pdf )     |     |    |  |  |
+|L24 | Dec 5 | ANOVA|         |     |    |  |  |
+|   | Dec 7 | No Lecture|       |     |    |  |  |
+|L25 | Dec 12 | Final Review|         |     |    |  |  |
+|L26 | Dec 16(Saturday!) | Final Exam: 7:45-9:45 am, Bascom 272|         |     |    |  |  |
+
+
+
+
+
+
 
 
 
