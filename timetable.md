@@ -42,13 +42,6 @@ css: /css/wide_table.css
 
 
 
-
-
-
-
-
-
-
 ------------------------------------------
 
 ## Homework assignments
@@ -58,8 +51,8 @@ css: /css/wide_table.css
 - [Homework 4](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4.pdf  ) [[HW4 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4key.pdf )]
 - [Homework 5](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw5.pdf  ) [[HW5 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw5key.pdf )]
 - [Homework 6](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw6.pdf  ) [[HW6 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw6key.pdf )]
-- [Homework 7](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw7.pdf  )
-- Homework 8
+- [Homework 7](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw7.pdf  ) [[HW7 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw7key.pdf )]
+- [Homework 8](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw8.pdf )
 
 ## Exam practice
 - [Midterm 1 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm1Practice.pdf) [[Midterm 1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Exam1Key.pdf )]
