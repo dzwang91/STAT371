@@ -1,0 +1,80 @@
+####################################
+##Multiple Independent Populations##
+####################################
+
+##Rat Poison Example##
+
+#enter data#
+times <- c(62, 60, 63, 59, 63, 67, 71, 64, 65, 66, 68, 
+66, 71, 67, 68, 68, 56, 62, 60, 61, 63, 64, 63, 59)
+diets <- c(rep(1, 4), rep(2, 6), rep(3, 6), rep(4, 8))
+
+#make diets an explicit factor#
+#necessary for later commands#
+dietsf <- factor(diets)
+
+#plotting#
+library(lattice)
+dotplot(times ~ dietsf, ylab = "Times", xlab = "Treatments", main = "Dotplot of Raw Data")
+boxplot(times ~ diets, ylab = "Times", xlab = "Treatments", main = "Boxplots of Raw Data")
+
+
+#ANOVA#
+
+#using lm#
+#Suppress intercept so coefficients are treatment means#
+#Note that ANOVA table will be wrong if you do this!!#
+mod1 <- lm(times ~ dietsf - 1)
+summary(mod1)
+
+#to get correct ANOVA table, use#
+mod1a <- lm(times ~ dietsf)
+anova(mod1a)
+
+#or, use aov#
+mod2 <- aov(times ~ dietsf)
+anova(mod2)
+
+
+#evaluate residuals#
+
+#residuals vs fitted#
+plot(residuals(mod1a) ~ fitted(mod1a), ylab = "Residuals", xlab = "Fitted Values", main = "Residuals vs Fitted Values")
+
+#QQ of residuals#
+qqnorm(residuals(mod1a), main = "QQ Plot of Residuals")
+
+
+#pairwise tests#
+#if only p-vals desired#
+
+#Fisher's LSD#
+pairwise.t.test(times, dietsf, p.adjust.method = "none" )
+
+#or to find Fisher multiplier#
+qt(1 - 0.05/2, 20)
+
+
+#Bonferroni#
+pairwise.t.test(times, dietsf, p.adjust.method = "bonf" )
+
+#or to find Bonferroni multiplier#
+qt(1 - 0.05 / (2*6), 20)
+
+
+#get Tukey, only works with aov#
+#gives only CIs and p-vals, not individual means#
+TukeyHSD(mod2, conf.level = 0.95)
+
+#to find Tukey multiplier#
+qtukey(0.95, 4, 20) / sqrt(2)
+
+
+
+#Kruskal-Wallis#
+kruskal.test(times ~ dietsf)
+
+#pairwise tests are by Mann-Whitney and must be done one at a time#
+#you could Bonferroni adjust these if desired#
+#this is only the one for A vs B#
+wilcox.test(times[dietsf == "A"], times[dietsf == "B"])
