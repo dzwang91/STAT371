@@ -42,20 +42,3 @@ css: /css/wide_table.css
 
 
 
-------------------------------------------
-
-## Homework assignments
-- [Homework 1: descriptive statistics](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1.pdf) [[HW1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw1key.pdf )]
-- [Homework 2: probability and binomial RV](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2.pdf) [[HW2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw2key.pdf )]
-- [Homework 3: Normal RV, Z table and estimation](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3.pdf) [[HW3 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw3key.pdf )]
-- [Homework 4](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4.pdf  ) [[HW4 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw4key.pdf )]
-- [Homework 5](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw5.pdf  ) [[HW5 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw5key.pdf )]
-- [Homework 6](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw6.pdf  ) [[HW6 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw6key.pdf )]
-- [Homework 7](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw7.pdf  ) [[HW7 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw7key.pdf )]
-- [Homework 8](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw8.pdf )  [[HW8 Key](https://github.com/dzwang91/stat371/raw/gh-pages/homework/hw8key.pdf )]
-
-## Exam practice
-- [Midterm 1 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm1Practice.pdf) [[Midterm 1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Exam1Key.pdf )]
-- [Midterm 2 practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Midterm2Practice.pdf ) [[Midterm 2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Exam2Key.pdf )]
-- [Final practice](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/finalpractice.pdf   )
-
