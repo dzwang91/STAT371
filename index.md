@@ -40,7 +40,7 @@ For more detailed information, see the course [Syllabus](https://github.com/dzwa
 
 | Name          | Office Hour        | Office Location | Email           |
 |---------------|--------------------|-----------------|-----------------|
-| [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)  |   |  | dwang282@wisc.edu |
+| [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)  | Wednesday 3-4pm  | R1475 MSC | dwang282@wisc.edu |
 | Hao Chen   |   |    | hchen434@wisc.edu   |
 |Muhong Gao|    |      |mgao55@wisc.edu     |
 | Yuetian Luo  |   |      | yluo86@wisc.edu |
