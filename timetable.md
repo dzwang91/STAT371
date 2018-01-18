@@ -3,6 +3,8 @@ layout: page
 title: Timetable
 css: /css/wide_table.css
 ---
+Homework assignments and exam practice are at the bottom of this page.
+
 
 | # | Date | Topic    | Slides         |Codes      |Notes               | Announcement| Extra reading |
 |---|--------|--------|----------------|-----------|--------------------|-------------|
