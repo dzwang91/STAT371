@@ -6,7 +6,6 @@ css: /css/wide_table.css
 
 | # | Date | Topic    | Slides         |Codes      |Notes               | Announcement| Extra reading |
 |---|--------|--------|----------------|-----------|--------------------|-------------|
-|    Chapter 1|
 |L1| Jan 23 | Syllabus and introduction  |[Syllabus slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter0.pdf), [Chapter 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter1.pdf) |      |  [Chapter 1 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter1-notes.pdf)    |  HW1 assigned, due on Sep 15, 4pm  |   [What is statistics?](https://github.com/dzwang91/stat371/raw/gh-pages/extrareading/what-is-statistics.pdf)  |
 |L2| Jan 25 | Descriptive statistics  |[Chapter 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter2.pdf) |  [Chapter 2 R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/chapter2R.txt )    |  [Chapter 2 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter2-notes.pdf)    |    |      |
 |L3| Jan 30 | Probability, intro to RVs and Distributions |[Chapter 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter3.pdf),[Chapter 4-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter4-1.pdf) |[Chapter 3 R code](https://github.com/dzwang91/stat371/raw/gh-pages/R/chapter3R.txt )    |  [Chapter 3 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter3-notes.pdf)  |HW2 assigned, due on Sep 22, 4pm |      |
