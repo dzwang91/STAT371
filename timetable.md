@@ -38,6 +38,36 @@ css: /css/wide_table.css
 |L26 | May 3 | |         |     |    |  |  |
 | | May 9 |Final Exam |         |     |    |  |  |
 
+## Homework Assignments
+- HW1
+- HW2
+- HW3
+- HW4
+- HW5
+- HW6
+- HW7
+- HW8
+
+## Exam Practice
+- Midterm 1 Practice
+- Midterm 2 Practice
+- Final Exam Practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
