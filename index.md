@@ -34,16 +34,16 @@ For more detailed information, see the course [Syllabus](https://github.com/dzwa
 | 332     | Education Science 212 | W 1:20-2:10 pm |
 | 333     | Mechanical Engineering 1163 | R 8:50-9:40 am |
 
-`Discussions are optional and start in the first week of classes`. Discussion locations might change through the semester, see your TA's announcement.  
+**Discussions are optional and start in the first week of classes**. Discussion locations might change through the semester, see your TA's announcement.  
 
 **Teaching staff**:
 
 | Name          | Office Hour        | Office Location | Email           |
 |---------------|--------------------|-----------------|-----------------|
-| [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)  | Friday 15:30-16:30pm | MSC 1475 | dwang282@wisc.edu |
-| Yuchang Wu   | Thursday 11:30am-12:30pm | MSC 1217    | ywu423@wisc.edu    | 
-| Zhongjie Yu  |  Friday 2-3pm    |  MSC B248     | zyu98@wisc.edu  |
-| Yuetian Luo  | Wednesday 2:30-2:30pm  |  MSC B315    | yluo86@wisc.edu |
+| [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)  |   |  | dwang282@wisc.edu |
+| Hao Chen   |   |    |    | 
+| Yuetian Luo  |   |      | yluo86@wisc.edu |
+| Ning Fan  |    |      |   |
 
 
 
@@ -72,11 +72,11 @@ The grading scheme for the course is as follows:
 
 ## Homework
 
-There will be about 8 homework assignments and each homework has 15 points. Check homework submission policies from the [syllabus](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Syllabus.pdf). 
+There will be 8 homework assignments and each homework has 15 points. Check homework submission policies from the [syllabus](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Syllabus.pdf). 
 
 ## Exams
 
-There is no makeup exam. If you miss the exam, you must provide a justified and documented reason to the instructor. 
+**There is no makeup exam**. If you miss the exam, you must provide a justified and documented reason to the instructor. 
 
 
 ## Q&A
