@@ -4,16 +4,15 @@ title: STAT 371
 subtitle: Introductory Applied Statistics for the Life Sciences
 ---
 
-**NOTE**: This is the web page for the Fall 2017 offering of STAT 371, Lecture 5.
+**NOTE**: This is the course webpage for the Spring 2018 offering of STAT 371, Lecture 3.
 
 ## Important dates
 
-- Thursday Sep 7: first lecture
-- Thursday Oct 12, 4-5:15pm: Midterm 1 (Van Vleck B130)
-- Thursday Nov 16, 4-5:15pm: Midterm 2 (Van Vleck B130)
-- Thursday Nov 23: Thanksgiving (no class)
-- Tuesday Dec 12: last lecture
-- Saturday Dec 16, 7:45-9:45am: Final (Location TBA)
+- Tuesday 1/23/2018: first lecture
+- Thursday 3/1/2018: Midterm 1 in lecture
+- Thursday 4/12/2018: Midterm 2 in lecture
+- Thursday 5/3/2018: last lecture
+- Wednesday 5/9/2018, 5:05-7:05pm: Final Exam (Location TBA)
 - Other important dates (e.g. [drop deadline](https://registrar.wisc.edu/fall_deadlines_at_a_glance.htm) )
 
 
