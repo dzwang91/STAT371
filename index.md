@@ -59,7 +59,7 @@ There is no required textbook for the class. The recommend text is *[An Introduc
 
 ## Programming 
 
-We will use the freely-available statistical software [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) page from Professor Karl Broman.) 
+We will use the freely-available statistical software [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) from Professor Karl Broman and [Rstudio tutorial](http://pages.stat.wisc.edu/~jgillett/371/RStudio/) from John Gillett.) 
 
 
 ## Grading
