@@ -24,17 +24,17 @@ For more detailed information, see the course [Syllabus](https://github.com/dzwa
 
 ## Who / what / where / when
 
-**Lectures**: Tuesday and Thursday, 16-17:15pm in Van Vleck B130
+**Lectures**: Tuesday and Thursday, 1-2:15pm, Animal Science 212
 
 **Discussions**:
 
 | Section | Place | Time |
 |---------|-------|------|
-| 351     | ENGR HALL 3345 | W 12:05-12:55 pm |
-| 352     | COMP SCI 1325 | W 13:20-14:10 pm |
-| 353     | COMP SCI 1325 | R 12:05-12:55pm |
+| 331     | Van Hise 494 | W 11-11:50 am |
+| 332     | Education Science 212 | W 1:20-2:10 pm |
+| 333     | Mechanical Engineering 1163 | R 8:50-9:40 am |
 
-Discussions are optional and start in the first week of classes. Discussion locations might change through the semester, see your TA's announcement.  
+`Discussions are optional and start in the first week of classes`. Discussion locations might change through the semester, see your TA's announcement.  
 
 **Teaching staff**:
 
