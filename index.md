@@ -34,7 +34,7 @@ For more detailed information, see the course [Syllabus](https://github.com/dzwa
 | 332     | Education Science 212 | W 1:20-2:10 pm |
 | 333     | Mechanical Engineering 1163 | R 8:50-9:40 am |
 
-**Discussions are optional and start in the first week of classes**. Discussion locations might change through the semester, see your TA's announcement.  
+**Discussions are optional and start in the first week of classes**. Discussion locations might change through the semester, see your TA's announcement.  Discussion handout will be posted at [LearnUW](https://learnuw.wisc.edu/) before each discussion by the Discussion TA. 
 
 **Teaching staff**:
 
@@ -59,7 +59,7 @@ There is no required textbook for the class. The recommend text is *[An Introduc
 
 ## Programming 
 
-We will use the freely-available statistical software [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) from Professor Karl Broman and [Rstudio tutorial](http://pages.stat.wisc.edu/~jgillett/371/RStudio/) from John Gillett.) 
+We will use the freely-available statistical software [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/) (See the [Getting started with R](https://www.biostat.wisc.edu/~kbroman/teaching/stat371/R.html) from Professor Karl Broman and [RStudio tutorial](http://pages.stat.wisc.edu/~jgillett/371/RStudio/) from John Gillett.) 
 
 
 ## Grading
@@ -82,5 +82,5 @@ There will be 8 homework assignments and each homework has 15 points. Check home
 
 
 ## Q&A
-We will use [Piazza](https://piazza.com/wisc/fall2017/stat3715fa17/home) for course-related questions. 
+We will use [Piazza](https://piazza.com/wisc/spring2018/stat37103/home) for course-related questions. 
 
