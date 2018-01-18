@@ -28,7 +28,7 @@ navbar-links:
   Resource: "resource"
   Links:
    - LearnUW: "https://learnuw.wisc.edu/"
-   - Piazza: "http://piazza.com/wisc/fall2017/stat3715fa17/home"
+   - Piazza: "https://piazza.com/wisc/spring2018/stat37103/home"
   
    
 # Image to show in the navigation bar - image must be a square (width = height)
