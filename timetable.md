@@ -8,7 +8,7 @@ Homework assignments and exam practice are at the bottom of this page.
 
 | # | Date | Topic    | Slides         |Codes      |Notes               | Announcement| Extra reading |
 |---|--------|--------|----------------|-----------|--------------------|-------------|
-|L1| Jan 23 | Syllabus and introduction  |  |      |   |    |          |
+|L1| Jan 23 | Syllabus and introduction  | [Chapter 1 slides](https://github.com/dzwang91/stat371/blob/gh-pages/lectures/chapter1.pdf) |      |   |    |          |
 |L2| Jan 25 |   |   |     |    |      |
 |L3| Jan 30 || | |   | |      |
 |L4| Feb 1 |  | |    |    |      |      |
