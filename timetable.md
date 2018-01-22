@@ -6,9 +6,9 @@ css: /css/wide_table.css
 Homework assignments and exam practice are at the bottom of this page.
 
 
-| # | Date | Topic    | Slides         |Codes      |Notes               | Announcement| Extra reading |
+| # | Date | Topic    | Lecture Slides/Notes         |Codes      |Summary Notes  | Announcement| Extra reading |
 |---|--------|--------|----------------|-----------|--------------------|-------------|
-|L1| Jan 23 | Syllabus and introduction  | [Chapter 1 slides](https://github.com/dzwang91/stat371/blob/gh-pages/lectures/chapter1.pdf) |      |   |    |          |
+|L1| Jan 23 | Syllabus and introduction  | [Chapter 1 slides](https://github.com/dzwang91/stat371/blob/gh-pages/lectures/chapter1.pdf) |      | [Chapter 1 summary](https://github.com/dzwang91/stat371/blob/gh-pages/notessummary/Chapter1-notes.pdf) |    |          |
 |L2| Jan 25 |   |   |     |    |      |
 |L3| Jan 30 || | |   | |      |
 |L4| Feb 1 |  | |    |    |      |      |
