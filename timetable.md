@@ -41,7 +41,7 @@ Homework assignments and exam practice are at the bottom of this page.
 | | May 9 |Final Exam |         |     |    |  |  |
 
 ## Homework Assignments
-- HW1
+- [HW1](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1.pdf )
 - HW2
 - HW3
 - HW4
