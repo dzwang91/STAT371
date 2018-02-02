@@ -42,7 +42,7 @@ Homework assignments and exam practice are at the bottom of this page.
 
 ## Homework Assignments
 - [HW1](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1.pdf )
-- [HW2](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2.pdf
+- [HW2](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2.pdf )
 - HW3
 - HW4
 - HW5
