@@ -1,5 +1,5 @@
 #———————————————————————————————————————————————————
-#Chapter 4: Random Variables and Distribution
+#Chapter 4: Random Variables and Distributions
 #———————————————————————————————————————————————————
 
 ##Binomial##
