@@ -15,7 +15,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L5| Feb 6 | RVs and Distributions |See last lecture | [Chapter 4 R](https://github.com/dzwang91/stat371/raw/gh-pages/R/chapter4R.txt) | [Chapter 4 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter4-notes.pdf)| Here are some practice problems: [Chapter 4 Exercise](https://github.com/dzwang91/stat371/raw/gh-pages/Practice/Chapter4-Practice-Problems.pdf)   |      |
 |L6| Feb 8 | Estimation | [Chapter 5-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-1.pdf)|    |    |      |      |
 |L7| Feb 13 | <img src="https://github.com/dzwang91/stat371/raw/gh-pages/lectures/runnynose.jpg" style="width: 20px;"/>|   |    |    |  Lecture is cancelled.   |      |
-|L8| Feb 15 |  |  |     |    |     |      |
+|L8| Feb 15 | Estimation | [Chapter 5-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-2.pdf)|     |    |     |      |
 |L9| Feb 20 |  | |  |    |  |      |
 |L10| Feb 22 | |   |     |    |      |      |
 |L11| Feb 27 |         |    |     |    |        |      |
