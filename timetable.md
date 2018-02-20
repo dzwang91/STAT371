@@ -16,7 +16,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L6| Feb 8 | Estimation | [Chapter 5-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-1.pdf)|    |    |      |      |
 |L7| Feb 13 | <img src="https://github.com/dzwang91/stat371/raw/gh-pages/lectures/runnynose.jpg" style="width: 20px;"/>|   |    |    |  Lecture is cancelled.   |      |
 |L8| Feb 15 | Estimation | [Chapter 5-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-2.pdf)|     |    |     |      |
-|L9| Feb 20 |  | |  |    |  |      |
+|L9| Feb 20 | QQ plot and CLT | [Chapter 5-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-3.pdf) | [QQ plot R](https://github.com/dzwang91/stat371/raw/gh-pages/R/QQplot.R), [CLT R](https://github.com/dzwang91/stat371/raw/gh-pages/R/CLT.R) |    |  |      |
 |L10| Feb 22 | |   |     |    |      |      |
 |L11| Feb 27 |         |    |     |    |        |      |
 |  | Mar 1 | Exam 1 |    |   |    |      |      |
