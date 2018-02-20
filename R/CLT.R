@@ -1,6 +1,6 @@
 #-----------CLT Simulation Code--------------#
 # Author: Duzhe Wang
-# Only used for STAT371-L5 Fall 2017.
+# Only used for STAT371-L3 Spring 2018.
 
 
 rm(list=ls())
