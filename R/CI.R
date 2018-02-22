@@ -1,9 +1,11 @@
 
 #########################################################################
-#  Confidence Intervals             STAT 371-5 Fall 2017    Duzhe Wang                  
+#  Confidence Intervals             
+#  STAT 371-3 Spring 2018
+#  Author: Duzhe Wang                  
 #########################################################################
 
-##Case1:CIs for a normal mean, variance known #####
+##Case1:CIs for a normal mean, standard deviation sigma is known #####
 
 mu = 5
 sigma = 1
@@ -32,7 +34,7 @@ for (i in 1:100) {
 }
 
 
-##Case 2: CIs for a normal mean, variance unknown #######
+##Case 2: CIs for a normal mean, standard deviatioin is unknown #######
 rm(list=ls())
 mu = 1.25
 sigma = 0.5
