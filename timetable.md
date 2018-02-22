@@ -17,7 +17,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L7| Feb 13 | <img src="https://github.com/dzwang91/stat371/raw/gh-pages/lectures/runnynose.jpg" style="width: 20px;"/>|   |    |    |  Lecture is cancelled.   |      |
 |L8| Feb 15 | Estimation | [Chapter 5-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-2.pdf)|     |    |     |      |
 |L9| Feb 20 | QQ plot and CLT | [Chapter 5-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-3.pdf) | [QQ plot R](https://github.com/dzwang91/stat371/raw/gh-pages/R/QQplot.R), [CLT R](https://github.com/dzwang91/stat371/raw/gh-pages/R/CLT.R) |    |  |      |
-|L10| Feb 22 | |   |     |    |      |      |
+|L10| Feb 22 | T distribution, Confidence interval| [Chapter 5-Part 4 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-4.pdf) | [Confidence interal R](https://github.com/dzwang91/stat371/raw/gh-pages/R/CI.R)   |    |      |      |
 |L11| Feb 27 |         |    |     |    |        |      |
 |  | Mar 1 | Exam 1 |    |   |    |      |      |
 |L12| Mar 6 |  |  |  |     |      |
