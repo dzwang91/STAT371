@@ -51,7 +51,7 @@ Homework assignments and exam practice are at the bottom of this page.
 - HW8
 
 ## Exam Practice
-- Midterm 1 Practice
+- [Midterm 1 Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/midterm1sample.pdf)
 - Midterm 2 Practice
 - Final Exam Practice
 
