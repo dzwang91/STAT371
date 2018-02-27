@@ -18,8 +18,8 @@ Homework assignments and exam practice are at the bottom of this page.
 |L8| Feb 15 | Estimation | [Chapter 5-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-2.pdf)|     |    |     |      |
 |L9| Feb 20 | QQ plot and CLT | [Chapter 5-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-3.pdf) | [QQ plot R](https://github.com/dzwang91/stat371/raw/gh-pages/R/QQplot.R), [CLT R](https://github.com/dzwang91/stat371/raw/gh-pages/R/CLT.R) |    |  |      |
 |L10| Feb 22 | T distribution, Confidence interval| [Chapter 5-Part 4 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-4.pdf) | [Confidence interal R](https://github.com/dzwang91/stat371/raw/gh-pages/R/CI.R)   |    | Download T table from the resource page.      |      |
-|L11| Feb 27 |         |    |     |    |        |      |
-|  | Mar 1 | Exam 1 |    |   |    |      |      |
+|L11| Feb 27 | Midterm 1 review |  [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm1review.pdf)  |     |    |        |      |
+|  | Mar 1 | Midterm 1 |    |   |    |      |      |
 |L12| Mar 6 |  |  |  |     |      |
 |L13| Mar 8 |  |   |   |   |      |      |
 |L14| Mar 13 |  |    |   |   |      |      |
