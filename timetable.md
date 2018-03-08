@@ -21,7 +21,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L11| Feb 27 | Midterm 1 review |  [Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm1review.pdf)  |     |    |        |      |
 |  | Mar 1 | Midterm 1 |    |   |    |      |      |
 |L12| Mar 6 | Estimation, Part 5 | [Chapter 5-Part 5 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-5.pdf)|  |     |      |
-|L13| Mar 8 |  |   |   |   |      |      |
+|L13| Mar 8 | Part 6 of Estimation: Bootstrap  | [Chapter 5-Part 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-6.pdf) | [Bootstrap R](https://github.com/dzwang91/stat371/raw/gh-pages/R/Bootstrap.R) |   |      |      |
 |L14| Mar 13 |  |    |   |   |      |      |
 |L15| Mar 15 | |   |   |   |      |      |
 |L16| Mar 20 |  |  |    |      |      |      |
