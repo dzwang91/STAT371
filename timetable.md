@@ -30,14 +30,14 @@ Homework assignments and exam practice are at the bottom of this page.
 |    | Mar 29 | No Lecture |       |      |      |      |
 |L18 | Apr 3 |  |       |      |      |      |
 |L19 | Apr 5 |   |       |     | |   |  |
-| L20  | Apr 10 | |       |      |      |      |
+| L20  | Apr 10 | Review|       |      |      |      |
 |  | Apr 12 |Exam 2 |      |     |   |  |  |
 |L21 | Apr 17 |  |       |     |    | |  |
 |L22 | Apr 19 |  |  |   |    |  |  |
 |L23 | Apr 24 | |         |     |    |  |  |
 | L24 | Apr 26 | |         |     |    |  |  |
 |L25 | May 1 | |         |     |    |  |  |
-|L26 | May 3 | |         |     |    |  |  |
+|L26 | May 3 | Review|         |     |    |  |  |
 | | May 9 |Final Exam |         |     |    |  |  |
 
 ## Homework Assignments
