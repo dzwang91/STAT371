@@ -23,7 +23,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L12| Mar 6 | Estimation, Part 5 | [Chapter 5-Part 5 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-5.pdf)|  |     |      |
 |L13| Mar 8 | Part 6 of Estimation: Bootstrap  | [Chapter 5-Part 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-6.pdf) | [Bootstrap R](https://github.com/dzwang91/stat371/raw/gh-pages/R/Bootstrap.R) |   |      |      |
 |L14| Mar 13 | Hypothesis testing | [Chapter 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6.pdf)  |   |   |      |      |
-|L15| Mar 15 | |   |   |   |      |      |
+|L15| Mar 15 | One sample tests| [Chapter 7-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-1.pdf) |   |   |      |      |
 |L16| Mar 20 |  |  |    |      |      |      |
 |L17| Mar 22 |  |   |       |      |      |      |
 |    | Mar 27 | No Lecture  |       |      |      |      |
