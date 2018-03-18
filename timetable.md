@@ -28,7 +28,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L17| Mar 22 |  |   |       |      |      |      |
 |    | Mar 27 | No Lecture  |       |      |      |      |
 |    | Mar 29 | No Lecture |       |      |      |      |
-|L18 | Apr 3 |  |       |      |      |      |
+|L18 | Apr 3 |  |       |      | HW5 is due on 4/3.    |      |
 |L19 | Apr 5 |   |       |     | |   |  |
 | L20  | Apr 10 | Review|       |      |      |      |
 |  | Apr 12 |Exam 2 |      |     |   |  |  |
