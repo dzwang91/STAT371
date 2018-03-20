@@ -24,10 +24,10 @@ Homework assignments and exam practice are at the bottom of this page.
 |L13| Mar 8 | Part 6 of Estimation: Bootstrap  | [Chapter 5-Part 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter5-6.pdf) | [Bootstrap R](https://github.com/dzwang91/stat371/raw/gh-pages/R/Bootstrap.R) | [Chapter 5 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter5-notes.pdf) |      |      |
 |L14| Mar 13 | Hypothesis testing | [Chapter 6 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter6.pdf)  |   |  [Chapter 6 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter6-notes.pdf)|      |      |
 |L15| Mar 15 | One sample tests| [Chapter 7-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-1.pdf) |   |   |      |      |
-|L16| Mar 20 |  |  |    |      |      |      |
-|L17| Mar 22 |  |   |       |      |      |      |
-|    | Mar 27 | No Lecture  |       |      |      |      |
-|    | Mar 29 | No Lecture |       |      |      |      |
+|L16| Mar 20 | One sample tests | [Chapter 7-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-2.pdf)|    |      |      |      |
+|L17| Mar 22 | No Lecture |   |       |      |      |      |
+|    | Mar 27 | Spring break, No Lecture  |       |      |      |      |
+|    | Mar 29 | Spring break, No Lecture |       |      |      |      |
 |L18 | Apr 3 |  |       |      |  | HW5 is due on 4/3.     |
 |L19 | Apr 5 |   |       |     | |   |  |
 | L20  | Apr 10 | Review|       |      |      |      |
