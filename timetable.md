@@ -32,7 +32,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L19 | Apr 5 | The Welch T-test  |  [Chapter 8-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-2.pdf)    |     | |   |  |
 | L20  | Apr 10 | Review|       |      |      |      |
 |  | Apr 12 |Exam 2 |      |     |   |  |  |
-|L21 | Apr 17 |  |       |     |    | |  |
+|L21 | Apr 17 |  |       |     |    |HW6 is due on 4/17. |  |
 |L22 | Apr 19 |  |  |   |    |  |  |
 |L23 | Apr 24 | |         |     |    |  |  |
 | L24 | Apr 26 | |         |     |    |  |  |
@@ -46,7 +46,7 @@ Homework assignments and exam practice are at the bottom of this page.
 - [HW3](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3.pdf)  [[HW3key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3key.pdf)]
 - [HW4](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4.pdf )  [[HW4key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4key.pdf)]
 - [HW5](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5.pdf )
-- HW6
+- [HW6](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6.pdf )
 - HW7
 - HW8
 
