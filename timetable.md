@@ -45,7 +45,7 @@ Homework assignments and exam practice are at the bottom of this page.
 - [HW2](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2.pdf )  [[HW2key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2key.pdf)]
 - [HW3](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3.pdf)  [[HW3key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3key.pdf)]
 - [HW4](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4.pdf )  [[HW4key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4key.pdf)]
-- [HW5](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5.pdf )
+- [HW5](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5.pdf )  [[HW5key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5key.pdf)]
 - [HW6](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6.pdf )
 - HW7
 - HW8
