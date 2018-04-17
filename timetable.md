@@ -28,7 +28,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L17| Mar 22 | No Lecture |   |       |      |      |      |
 |    | Mar 27 | Spring break, No Lecture  |       |      |      |      |
 |    | Mar 29 | Spring break, No Lecture |       |      |      |      |
-|L18 | Apr 3 | One sample tests, Two sample T-test | [Chapter 7-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-3.pdf), [Chapter 8-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-1.pdf)    |      |  | HW5 is due on 4/3.     |
+|L18 | Apr 3 | One sample tests, Two sample T-test | [Chapter 7-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter7-3.pdf), [Chapter 8-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-1.pdf)    |      | [Chapter 7 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter7-notes.pdf)| HW5 is due on 4/3.     |
 |L19 | Apr 5 | The Welch T-test  |  [Chapter 8-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-2.pdf)    |     | |   |  |
 | L20  | Apr 10 | Review| [Midterm 2 Review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Midterm2review.pdf)     |      |      |      |
 |  | Apr 12 |Exam 2 |      |     |   |  |  |
