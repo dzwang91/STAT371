@@ -38,7 +38,7 @@ Homework assignments and exam practice are at the bottom of this page.
 | L24 | Apr 26 | ANOVA, Regression|         |     |    |  |  |
 |L25 | May 1 | Regression|         |     |    |  |  |
 |L26 | May 3 | Review  |         |     |    |  |  |
-| | May 9 |Final Exam |         |     |    |  |  |
+| | May 9, 17:05-19:05pm, Sterling 1310 |Final Exam |         |     |    |  |  |
 
 ## Homework Assignments
 - [HW1](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1.pdf ) [[HW1key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1key.pdf)]
