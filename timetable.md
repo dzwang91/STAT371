@@ -34,7 +34,8 @@ Homework assignments and exam practice are at the bottom of this page.
 |  | Apr 12 |Exam 2 |      |     |   |  |  |
 |L21 | Apr 17 | Test for two population proportions, the paited T-test |  [Chapter 8-Part 3 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter8-3.pdf), [Chapter 9-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter9-1.pdf)     |     |    |HW6 is due on 4/17. HW7 is out, due on 4/27.|  |
 |L22 | Apr 19 |No Lecture  |  |   |    |  |  |
-|L23 | Apr 24 | Sign test for paired data, ANOVA|         |     |    |  |  |
+|L23 | Apr 24 | Sign test for paired data, ANOVA| [Chapter 9-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter9-2.pdf), [Chapter 10-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter10-1.pdf)    |     |    |HW6 is due on 4/17. HW7 is out, due on 4/27.|  |
+      |     |    |  |  |
 | L24 | Apr 26 | ANOVA, Regression|         |     |    |  |  |
 |L25 | May 1 | Regression|         |     |    |  |  |
 |L26 | May 3 | Review  |         |     |    |  |  |
