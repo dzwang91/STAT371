@@ -36,7 +36,7 @@ Homework assignments and exam practice are at the bottom of this page.
 |L22 | Apr 19 |No Lecture  |  |   |    |  |  |
 |L23 | Apr 24 | Sign test for paired data, ANOVA| [Chapter 9-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter9-2.pdf), [Chapter 10-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter10-1.pdf)    |     |    |  |      |
 | L24 | Apr 26 | ANOVA, Regression| [Chapter 10-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter10-2.pdf), [Chapter 11-Part 1 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter11-1.pdf)        |     |    |  |  |
-|L25 | May 1 | Regression|         |     |    |  |  |
+|L25 | May 1 | Regression| [Chapter 11-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter11-2.pdf)        |     |    |  |  |
 |L26 | May 3 | Review  |         |     |    |  |  |
 | | May 9, 17:05-19:05pm, Sterling 1310 |Final Exam |         |     |    |  |  |
 
