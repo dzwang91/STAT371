@@ -46,9 +46,9 @@ Homework assignments and exam practice are at the bottom of this page.
 - [HW3](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3.pdf)  [[HW3key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3key.pdf)]
 - [HW4](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4.pdf )  [[HW4key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4key.pdf)]
 - [HW5](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5.pdf )  [[HW5key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5key.pdf)]
-- [HW6](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6.pdf )
-- [HW7](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw7.pdf )
-- HW8
+- [HW6](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6.pdf )   [[HW6key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6key.pdf)]
+- [HW7](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw7.pdf )   [[HW7key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw7key.pdf)]
+- [HW8](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw8.pdf )
 
 ## Exam Practice
 - [Midterm 1 Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/midterm1sample.pdf) [[Midterm 1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Exam1Key.pdf)]
