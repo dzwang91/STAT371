@@ -53,7 +53,7 @@ Homework assignments and exam practice are at the bottom of this page.
 ## Exam Practice
 - [Midterm 1 Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/midterm1sample.pdf) [[Midterm 1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Exam1Key.pdf)]
 - [Midterm 2 Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Midterm2Practice.pdf) [[Midterm 2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Exam2Key.pdf)]
-- Final Exam Practice
+- [Final Exam Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/finalpractice.pdf)
 
 
 
