@@ -41,20 +41,14 @@ Homework assignments and exam practice are at the bottom of this page.
 | | May 9, 17:05-19:05pm, Sterling 1310 |Final Exam |         |     |    |  |  |
 
 ## Homework Assignments
-- [HW1](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1.pdf ) [[HW1key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1key.pdf)]
-- [HW2](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2.pdf )  [[HW2key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2key.pdf)]
-- [HW3](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3.pdf)  [[HW3key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3key.pdf)]
-- [HW4](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4.pdf )  [[HW4key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4key.pdf)]
-- [HW5](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5.pdf )  [[HW5key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5key.pdf)]
-- [HW6](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6.pdf )   [[HW6key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6key.pdf)]
-- [HW7](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw7.pdf )   [[HW7key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw7key.pdf)]
-- [HW8](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw8.pdf )  [[HW8key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw8key.pdf)]
-
-## Exam Practice
-- [Midterm 1 Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/midterm1sample.pdf) [[Midterm 1 Key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Exam1Key.pdf)] [[Midterm 1](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Exam1.pdf)]
-- [Midterm 2 Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Midterm2Practice.pdf) [[Midterm 2 Key](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Exam2Key.pdf)] [[Midterm 2](https://github.com/dzwang91/stat371/raw/gh-pages/hw/Exam2.pdf)]
-- [Final Exam Practice](https://github.com/dzwang91/stat371/raw/gh-pages/hw/finalpractice.pdf)
-
+- [HW1](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1.pdf )
+- [HW2](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2.pdf ) 
+- [HW3](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3.pdf) 
+- [HW4](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4.pdf )  
+- [HW5](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5.pdf )  
+- [HW6](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6.pdf )  
+- [HW7](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw7.pdf ) 
+- [HW8](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw8.pdf )  
 
 
 
