@@ -4,6 +4,7 @@ title: Timetable
 css: /css/wide_table.css
 ---
 
+**Note: You are welcome to use the slides/notes for yourself, for teaching, or for any other noncommercial purpose. If you use extracts from these materials, please make sure that their origin is shown. The author assumes no liability or responsibility for any errors or omissions.**
 
 
 | # | Date | Topic    | Lecture Slides/Notes         |Codes      |Summary Notes  | Announcement| Extra reading |
@@ -39,17 +40,6 @@ css: /css/wide_table.css
 |L25 | May 1 | Regression| [Chapter 11-Part 2 slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/chapter11-2.pdf)        |     | [Chapter 11 summary](https://github.com/dzwang91/stat371/raw/gh-pages/notessummary/Chapter11-notes.pdf)  | HW8 is out, due on 5/7. |  |
 |L26 | May 3 | Review  | [Final review slides](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/finalreview.pdf)       |     |    |  |  |
 | | May 9, 17:05-19:05pm, Sterling 1310 |Final Exam |         |     |    |  |  |
-
-## Homework Assignments
-- [HW1](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw1.pdf )
-- [HW2](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw2.pdf ) 
-- [HW3](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw3.pdf) 
-- [HW4](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw4.pdf )  
-- [HW5](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw5.pdf )  
-- [HW6](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw6.pdf )  
-- [HW7](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw7.pdf ) 
-- [HW8](https://github.com/dzwang91/stat371/raw/gh-pages/hw/hw8.pdf )  
-
 
 
 
